@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Photograph on file">
+  <rect width="400" height="300" fill="#e7ece9"/>
+  <circle cx="200" cy="118" r="46" fill="#c3cdc7"/>
+  <path d="M110 262c8-52 46-82 90-82s82 30 90 82z" fill="#c3cdc7"/>
+  <text x="200" y="288" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#5b625e">Photograph on file</text>
+</svg>
